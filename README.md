@@ -1,3 +1,5 @@
+16688/16688 ━━━━━━━━━━━━━━━━━━━━ 14589s 874ms/step - accuracy: 0.8129 - loss: 1.8762 - val_accuracy: 0.8281 - val_loss: 1.6310
+
 | Layer (type)          | Output Shape        | Param #      | Connected to       |
 |----------------------|-------------------|-------------|------------------|
 | input_layer (InputLayer) | (None, 25)       | 0           | -                |
